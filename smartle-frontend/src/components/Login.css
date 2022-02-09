@@ -1,0 +1,9 @@
+.login-container{
+    width: 40%;
+    margin: auto;
+}
+
+.login-label{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

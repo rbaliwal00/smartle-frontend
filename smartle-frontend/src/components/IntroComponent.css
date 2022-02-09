@@ -1,0 +1,16 @@
+.img{
+    background-image: url("../assets/groupofstudents.jpg");
+    height: auto;
+    width: 100%;
+    opacity: 1;
+    padding-bottom: 60px;
+}
+
+.content{
+    width: 80%;
+    margin: auto;
+}
+
+.browse-button{
+    margin-top: 50px;
+}

@@ -1,0 +1,9 @@
+.logo{
+    border: 2px solid black;
+    margin-left: 15px;
+    background-color: white;
+}
+
+.sidebar-logo{
+    align-items: center;
+}
